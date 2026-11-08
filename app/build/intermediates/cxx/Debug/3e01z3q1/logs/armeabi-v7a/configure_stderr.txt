@@ -1,0 +1,1 @@
+error: "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/bin/cmake" is 64-bit instead of 32-bit
